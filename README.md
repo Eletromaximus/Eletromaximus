@@ -32,8 +32,14 @@
 
 :spades: Discord: Max_Milliano#9644
 
+
+
 Visitantes: 
 [![HitCount](http://hits.dwyl.com/Eletromaximus/Eletromaximus.svg)](http://hits.dwyl.com/Eletromaximus/Eletromaximus)
+
+
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eletromaximus&hide=contribs,prs)
+
 
 
 
