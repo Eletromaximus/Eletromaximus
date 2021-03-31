@@ -24,6 +24,8 @@
 
 :notebook: Typescript
 
+:exclamation: Jest, Cypress e React Testing Library
+
 :email: Entre em Contato
 &nbsp;
 -------------------------------------------------------
