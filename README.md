@@ -35,8 +35,9 @@
 </code>
 
 <code>
- <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+ <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
 </code>
+
 
 :floppy_disk: HTML CSS Styled Components
 
