@@ -36,19 +36,15 @@
 
 
 
-Visitantes: 
-[![HitCount](http://hits.dwyl.com/Eletromaximus/Eletromaximus.svg)](http://hits.dwyl.com/Eletromaximus/Eletromaximus)
+<!-- Visitantes: 
+[![HitCount](http://hits.dwyl.com/Eletromaximus/Eletromaximus.svg)](http://hits.dwyl.com/Eletromaximus/Eletromaximus) -->
 
 
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eletromaximus&hide=contribs,prs)
-
-
-
-
-
-
-
-
+<div>
+  <a href="https://github.com/Eletromaximus">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Eletromaximus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top_langs/?username=Eletromaximus&layout=compact&langs_count=2&theme=dracula"/>
+</div>
 
 
 
