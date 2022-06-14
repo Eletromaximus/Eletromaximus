@@ -2,7 +2,7 @@
 &nbsp;
 ---------------------------------------------------------
 &nbsp;
-:surfer: Fã da Stack Javascript, programo em Node, React Native e especial, React Native
+:surfer: Fã da Stack Javascript, programo em Node, React Native e recentemente, Java
  
  Estou a procura de novas oportunidades :telescope:
 
